@@ -23,6 +23,6 @@ Each project in this repository is designed to demonstrate specific features, co
 - **APIs** (where applicable): Some projects interact with external APIs for real-time data.
 - **JavaScript Libraries** (where applicable): Explore libraries like **Axios**, **Lodash**, etc., in specific projects.
 
-__JavaScript Projects__
+📁 __JavaScript Projects__
 
 You can navigate through each folder to explore how various JavaScript techniques and features are implemented.
