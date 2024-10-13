@@ -24,4 +24,5 @@ Each project in this repository is designed to demonstrate specific features, co
 - **JavaScript Libraries** (where applicable): Explore libraries like **Axios**, **Lodash**, etc., in specific projects.
 
 __JavaScript Projects__
+
 You can navigate through each folder to explore how various JavaScript techniques and features are implemented.
