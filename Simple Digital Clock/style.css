@@ -1,0 +1,52 @@
+* { 
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin: auto;
+}
+
+nav {
+    text-align: center;
+    width: 500px;
+    background-color: rgb(221, 217, 255);
+    border: 1px solid black;
+}
+
+nav button {
+    text-decoration: none;
+    font-size: 22px;
+    color: black;
+    margin: 0.6rem 1rem;
+    padding: 2px 12px;
+}
+
+.center {
+    width: 500px;
+    text-align: center;
+    background-color: navy;
+    padding: 100px 0px;
+}
+
+#banner {
+    font-size: 20px;
+    font-weight: bold;
+    color: white;
+    margin-bottom: 10px;
+}
+
+#clock {
+    margin: auto;
+    background-color: white;
+    font-size: 21px;
+    display: inline-block;
+    padding: 5px 16px;
+    font-weight: bold;
+}

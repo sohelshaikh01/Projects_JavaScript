@@ -1,0 +1,43 @@
+/* Style for color scheme switcher */
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    /* margin: auto;
+    width: 500px; */
+    margin-top: 200px;
+    text-align: center;
+}
+
+h1 {
+    margin-bottom: 20px;
+}
+
+span {
+    height: 100px;
+    width: 100px;
+    margin:10px;
+    display: inline-block;
+    border: 2px solid black;
+}
+
+
+#green {
+    background-color: #67d167;
+}
+
+#white{
+    background-color: whitesmoke;
+}
+
+#yellow {
+    background-color: yellow;
+}
+
+#blue {
+    background-color: #0099ff;
+}
