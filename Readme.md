@@ -23,28 +23,4 @@ Each project in this repository is designed to demonstrate specific features, co
 - **APIs** (where applicable): Some projects interact with external APIs for real-time data.
 - **JavaScript Libraries** (where applicable): Explore libraries like **Axios**, **Lodash**, etc., in specific projects.
 
-## Folder Structure
-
-Each project is organized in its own directory, containing:
-
-- `index.html` – Main HTML file.
-- `style.css` – Custom styles for the project.
-- `script.js` – JavaScript file implementing the logic.
-
 You can navigate through each folder to explore how various JavaScript techniques and features are implemented.
-
-## Key Learning Areas
-
-These projects cover various important JavaScript concepts, such as:
-
-- **Event-Driven Programming**
-- **Asynchronous JavaScript (Promises, Async/Await)**
-- **Modular JavaScript**
-- **Working with APIs**
-- **Error Handling and Debugging**
-- **LocalStorage and SessionStorage**
-- **JavaScript Design Patterns**
-
-## Contribution Guidelines
-
-Contributions are welcome! If you would like to improve the existing projects or add new advanced-level JavaScript projects, feel free to open a pull request. Please ensure that your code follows good coding practices and is well-documented.
