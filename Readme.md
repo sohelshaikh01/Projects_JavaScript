@@ -23,12 +23,6 @@ Each project in this repository is designed to demonstrate specific features, co
 - **CSS3**: Styling for visual presentation, including Flexbox and Grid layouts.
 - **APIs** (where applicable): Some projects interact with external APIs for real-time data.
 
-## Folder Structure
-
-Each project is organized in its own directory, containing:
-
-- `index.html` – Main HTML file.
-- `style.css` – Custom styles for the project.
-- `script.js` – JavaScript file implementing the logic.
+📁 __JavaScript Projects__
 
 You can navigate through each folder to explore how various JavaScript techniques and features are implemented.
