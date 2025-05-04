@@ -3,7 +3,7 @@
 Welcome to the **JavaScript Practice Projects Repository**! 
 This collection contains simple JavaScript projects focused on core concepts, helping to improve coding skills and problem-solving.
 
-<img src="https://trainings.internshala.com/blog/wp-content/uploads/2023/05/Node-js-projects-1.jpg
+<img src="https://training-blog-uploads.internshala.com/blog/wp-content/uploads/2023/05/Node-js-projects-1.jpg.webp
 " alt="JavaScript Projects" width="100%">
 
 ## Projects Overview
