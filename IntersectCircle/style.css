@@ -1,0 +1,7 @@
+/* This is style for Javascript practice */
+
+.circle {
+    border: 5px solid skyblue;
+    border-radius: 50%;
+    position: fixed;
+}
